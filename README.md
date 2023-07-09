@@ -2,7 +2,7 @@
 Stocks analysis using python packages
 
 ## Jupyter notebooks
-### yf_ta_part1
+### [yf_ta_part1](yf_ta_part1.ipynb)
 This notebook plots the following stock charts:
 1. CandleStick chart
 2. Price and Volume charts
