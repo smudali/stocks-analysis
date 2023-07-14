@@ -22,5 +22,4 @@ Stock Technical Analysis uses the following main packages:
 - jproperties - reading the property file
 - pandas - date utilities
 
-An example of a chart showing Price and Volume:
-![newplot (2)](https://github.com/smudali/stocks-analysis/assets/30547825/278d291d-5805-4bc5-b0e6-75653f68a396)
+An example of a chart showing Price and Volume:![newplot (4)](https://github.com/smudali/stocks-analysis/assets/30547825/69aa318a-c6cf-4516-9060-17eb8522d749)
