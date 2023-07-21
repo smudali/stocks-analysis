@@ -23,3 +23,12 @@ Stock Technical Analysis uses the following main packages:
 - pandas - date utilities
 
 An example of a chart showing Price and Volume:![newplot (4)](https://github.com/smudali/stocks-analysis/assets/30547825/69aa318a-c6cf-4516-9060-17eb8522d749)
+
+See [Plot Moving Averages using Python APIs](https://medium.com/@sugath.mudali/plot-moving-averages-using-python-apis-9a313b2b75ae) for details
+
+### [yf_ta_part2](yf_ta_part2.ipynb)
+This notebook plots the following stock charts:
+1. Candlestick
+2. RSI
+3. Bollinger Bands
+4. MACD
