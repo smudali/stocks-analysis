@@ -35,4 +35,4 @@ This notebook plots the following stock charts:
 4. MACD
 
 ## Medium Article
-See [Plot Candlestick, RSI, Bollinger Bands, and MACD charts using yfinance Python API]()
+See [Plot Candlestick, RSI, Bollinger Bands, and MACD charts using yfinance Python API](https://medium.com/@sugath.mudali/plot-candlestick-rsi-bollinger-bands-and-macd-charts-using-yfinance-python-api-1c2cb182d147)
