@@ -36,3 +36,14 @@ This notebook plots the following stock charts:
 
 ## Medium Article
 See [Plot Candlestick, RSI, Bollinger Bands, and MACD charts using yfinance Python API](https://medium.com/@sugath.mudali/plot-candlestick-rsi-bollinger-bands-and-macd-charts-using-yfinance-python-api-1c2cb182d147)
+
+### [av_insert_earnings](av_insert_earnings.ipynb)
+This notebook inserts Earnings data into MongoDB Atlas database
+
+## Medium Article
+- [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API]()
+
+### [av_insert_income_statements](av_insert_income_statements.ipynb)
+## Medium Article
+- [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API]()
+
