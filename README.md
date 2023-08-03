@@ -24,26 +24,26 @@ Stock Technical Analysis uses the following main packages:
 
 An example of a chart showing Price and Volume:![newplot (4)](https://github.com/smudali/stocks-analysis/assets/30547825/69aa318a-c6cf-4516-9060-17eb8522d749)
 
-## Medium Article
+#### Medium Article
 - [Plot Moving Averages using Python APIs](https://medium.com/@sugath.mudali/plot-moving-averages-using-python-apis-9a313b2b75ae)
 
-### [yf_ta_part2](yf_ta_part2.ipynb)
+## [yf_ta_part2](yf_ta_part2.ipynb)
 This notebook plots the following stock charts:
 1. Candlestick
 2. RSI and Volume
 3. Bollinger Bands
 4. MACD
 
-## Medium Article
-See [Plot Candlestick, RSI, Bollinger Bands, and MACD charts using yfinance Python API](https://medium.com/@sugath.mudali/plot-candlestick-rsi-bollinger-bands-and-macd-charts-using-yfinance-python-api-1c2cb182d147)
+#### Medium Article
+- [Plot Candlestick, RSI, Bollinger Bands, and MACD charts using yfinance Python API](https://medium.com/@sugath.mudali/plot-candlestick-rsi-bollinger-bands-and-macd-charts-using-yfinance-python-api-1c2cb182d147)
 
-### [av_insert_earnings](av_insert_earnings.ipynb)
+## [av_insert_earnings](av_insert_earnings.ipynb)
 This notebook inserts Earnings data into MongoDB Atlas database
 
-## Medium Article
+#### Medium Article
 - [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API](https://medium.com/@sugath.mudali/company-earnings-and-income-dashboards-with-mongodb-and-alpha-vantage-api-8c03341f8d3c)
 
-### [av_insert_income_statements](av_insert_income_statements.ipynb)
-## Medium Article
+## [av_insert_income_statements](av_insert_income_statements.ipynb)
+#### Medium Article
 - [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API](https://medium.com/@sugath.mudali/company-earnings-and-income-dashboards-with-mongodb-and-alpha-vantage-api-8c03341f8d3c)
 
