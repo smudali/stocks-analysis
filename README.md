@@ -41,9 +41,9 @@ See [Plot Candlestick, RSI, Bollinger Bands, and MACD charts using yfinance Pyth
 This notebook inserts Earnings data into MongoDB Atlas database
 
 ## Medium Article
-- [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API]()
+- [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API](https://medium.com/@sugath.mudali/company-earnings-and-income-dashboards-with-mongodb-and-alpha-vantage-api-8c03341f8d3c)
 
 ### [av_insert_income_statements](av_insert_income_statements.ipynb)
 ## Medium Article
-- [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API]()
+- [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API](https://medium.com/@sugath.mudali/company-earnings-and-income-dashboards-with-mongodb-and-alpha-vantage-api-8c03341f8d3c)
 
