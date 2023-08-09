@@ -47,3 +47,6 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [Company Earnings and Income Dashboards with MongoDB and Alpha Vantage API](https://medium.com/@sugath.mudali/company-earnings-and-income-dashboards-with-mongodb-and-alpha-vantage-api-8c03341f8d3c)
 
+## [fh_analyst_trends](fh_analyst_trends.ipynb)
+#### Medium Article
+- [Plot Recommendation Trends from Finnhub using Plotly Library for Python](https://medium.com/@sugath.mudali/plot-recommendation-trends-from-finnhub-using-plotly-library-for-python-6487a9c9e4ec)
