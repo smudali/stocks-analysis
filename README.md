@@ -50,3 +50,7 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [fh_analyst_trends](fh_analyst_trends.ipynb)
 #### Medium Article
 - [Plot Recommendation Trends from Finnhub using Plotly Library for Python](https://medium.com/@sugath.mudali/plot-recommendation-trends-from-finnhub-using-plotly-library-for-python-6487a9c9e4ec)
+
+## [yf_wacc](ya_wacc.ipynb), [av_wacc](av_wacc.ipynb)
+#### Medium Article
+- [Calculate Weighted Average Cost of Capital (WACC) using Python APIs](https://medium.com/@sugath.mudali/calculate-weighted-average-cost-of-capital-wacc-using-python-apis-f5f06d257a9d)
