@@ -54,3 +54,7 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [yf_wacc](ya_wacc.ipynb), [av_wacc](av_wacc.ipynb)
 #### Medium Article
 - [Calculate Weighted Average Cost of Capital (WACC) using Python APIs](https://medium.com/@sugath.mudali/calculate-weighted-average-cost-of-capital-wacc-using-python-apis-f5f06d257a9d)
+
+## [yf_dcf](ya_dcf.ipynb), [yf_dcf_v2](ya_dcf_v2.ipynb), [av_dcf](av_dcf.ipynb)
+#### Medium Article
+- [How to Calculate Intrinsic Value of a Stock Using DCF model in Python](https://medium.com/@sugath.mudali/how-to-calculate-intrinsic-value-of-a-stock-using-dcf-model-in-python-4e99bf771b3b)
