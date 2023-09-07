@@ -2,7 +2,7 @@
 Stocks dashboard using Streamlit
 
 #### Medium Article
-- [Creating a Stock Dashboard with Streamlit](https://medium.com/@sugath.mudali/plot-candlestick-rsi-bollinger-bands-and-macd-charts-using-yfinance-python-api-1c2cb182d147)
+- [Creating a Stock Dashboard with Streamlit](https://medium.com/@sugath.mudali/creating-a-stock-dashboard-with-streamlit-441039bdf7e0)
 
 ### Populate Earnings
 Run the following command to populate Earnings:
