@@ -59,7 +59,10 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [How to Calculate Intrinsic Value of a Stock Using DCF model in Python](https://medium.com/@sugath.mudali/how-to-calculate-intrinsic-value-of-a-stock-using-dcf-model-in-python-4e99bf771b3b)
 
-
 ## [yf_stock_picker_p1](yf_stock_picker_p1.ipynb)
 #### Medium Article
 - [A Simple Stock Picking Strategy with 6 key Financial Metrics - Part 1](https://medium.com/@sugath.mudali/a-simple-stock-picking-strategy-with-6-key-financial-metrics-part-1-dab0effb80f8)
+
+## [yf_stock_picker_p2](yf_stock_picker_p2.ipynb)
+#### Medium Article
+- [A Simple Stock Picking Strategy with 6 key Financial Metrics - Part 2](https://medium.com/@sugath.mudali/a-simple-stock-picking-strategy-with-6-key-financial-metrics-part-2-3c8086d2564c)
