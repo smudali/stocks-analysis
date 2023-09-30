@@ -62,4 +62,4 @@ This notebook inserts Earnings data into MongoDB Atlas database
 
 ## [yf_stock_picker_p1](yf_stock_picker_p1.ipynb)
 #### Medium Article
-- [A Simple Stock Picking Strategy with 6 key Financial Metrics - Part 1]()
+- [A Simple Stock Picking Strategy with 6 key Financial Metrics - Part 1](https://medium.com/@sugath.mudali/a-simple-stock-picking-strategy-with-6-key-financial-metrics-part-1-dab0effb80f8)
