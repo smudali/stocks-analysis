@@ -69,5 +69,5 @@ This notebook inserts Earnings data into MongoDB Atlas database
 
 ## [dividend_scanner.ipynb](asx/dividend_scanner.ipynb)
 ### Medium Article
-- [Scan for ASX dividend stocks with 5 Key Financial Metrics]()
+- [Scan for ASX dividend stocks with 5 Key Financial Metrics](https://medium.com/@sugath.mudali/scan-for-asx-dividend-stocks-with-5-key-financial-metrics-d31e659555ca)
 
