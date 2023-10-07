@@ -1,0 +1,6 @@
+Rule ID|Description|Reason
+1|Return on equity greater than 10%|Return on equity measures how much profit a company generates with the money that its shareholders have invested. This serves as a quality filter to ensure the company is using its money efficiently to generate profits.
+2|Yield greater than 4.0%|The average yield on the ASX 200 sits around 4% historically, we we don’t want any less than that - otherwise we could just buy the index. We’re looking for stocks with a dividend yield (12-month trailing) that’s not too low but the next screener will cut any that are unsustainably high.
+3|Dividend growth forecast to increase|This metric reflects analyst expectations that the company will at least maintain, if not increase its dividends in the coming year.
+4|Payout ratio less than 75%|This provides some dividend protection should earnings fall. We don’t want to see a company that pays out every dollar it earns as a dividend only for there to be nothing left in the kitty for future divs.
+5|Price to earnings ratio less than 20x|A basic measure that ensures the stock is not ‘expensive’
