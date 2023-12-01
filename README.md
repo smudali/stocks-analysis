@@ -67,7 +67,13 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [A Simple Stock Picking Strategy with 6 key Financial Metrics - Part 2](https://medium.com/@sugath.mudali/a-simple-stock-picking-strategy-with-6-key-financial-metrics-part-2-3c8086d2564c)
 
-## [dividend_scanner.ipynb](asx/dividend_scanner.ipynb)
+## [dividend_scanner](asx/dividend_scanner.ipynb)
 ### Medium Article
 - [Scan for ASX dividend stocks with 5 Key Financial Metrics](https://medium.com/@sugath.mudali/scan-for-asx-dividend-stocks-with-5-key-financial-metrics-d31e659555ca)
+- 
+[yf_dashboard](yf_dashboard.ipynb)
+### Medium Article
+- [Creating a simple Stock Portfolio Dashboard in Python]()
+- 
+
 
