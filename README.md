@@ -75,4 +75,7 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [Creating a simple Stock Portfolio Dashboard in Python](https://medium.com/@sugath.mudali/creating-a-simple-stock-portfolio-dashboard-in-python-702187bbe0d6) 
 
+## [yf_valuation](yf_valuation.ipynb)
+#### Medium Article
+- [Historical P/E Ratio as a Valuation Analysis Technique]()
 
