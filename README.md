@@ -77,5 +77,5 @@ This notebook inserts Earnings data into MongoDB Atlas database
 
 ## [yf_valuation](yf_valuation.ipynb)
 #### Medium Article
-- [Historical P/E Ratio as a Valuation Analysis Technique]()
+- [Historical P/E Ratio as a Valuation Analysis Technique](https://medium.com/@sugath.mudali/historical-p-e-ratio-as-a-valuation-analysis-technique-e5f9326be833)
 
