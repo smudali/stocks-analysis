@@ -79,3 +79,6 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [Historical P/E Ratio as a Valuation Analysis Technique](https://medium.com/@sugath.mudali/historical-p-e-ratio-as-a-valuation-analysis-technique-e5f9326be833)
 
+## [yf_stock_screener](yf_stock_screener.ipynb)
+#### Medium Article
+- [Fundamental Analysis for ranking Stocks with Python API](https://medium.com/@sugath.mudali/fundamental-analysis-for-ranking-stocks-with-python-api-0bf44cffd6da)
