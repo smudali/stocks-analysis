@@ -82,3 +82,7 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [yf_stock_screener](yf_stock_screener.ipynb)
 #### Medium Article
 - [Fundamental Analysis for ranking Stocks with Python API](https://medium.com/@sugath.mudali/fundamental-analysis-for-ranking-stocks-with-python-api-0bf44cffd6da)
+
+## [yf_piotroski_score](yf_piotroski_score.ipynb)
+#### Medium Article
+- [Piotroski Score to find value stocks with Python API]()
