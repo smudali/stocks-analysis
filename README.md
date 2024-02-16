@@ -86,3 +86,7 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [yf_piotroski_score](yf_piotroski_score.ipynb)
 #### Medium Article
 - [Piotroski Score to find value stocks with Python API](https://medium.com/@sugath.mudali/piotroski-score-to-find-value-stocks-with-python-api-18021f92e538)
+
+## [sec_load_findata.ipynb](sec/sec_load_findata.ipynb)
+#### Medium Article
+- [Accessing company financials using the SEC Financial Statement Data Sets]()
