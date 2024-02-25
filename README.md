@@ -90,3 +90,8 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [sec_load_findata.ipynb](sec/sec_load_findata.ipynb)
 #### Medium Article
 - [Accessing company financials using the SEC Financial Statement Data Sets](https://medium.com/@sugath.mudali/accessing-company-financials-using-the-sec-financial-statement-data-sets-29de4770ce64)
+
+## [sec_load_findata_p2.ipynb](sec/sec_load_findata_p2.ipynb)
+#### Medium Article
+- [Accessing company financials using the SEC Financial Statement Data Sets - Part 2 (Enhancements)]()
+
