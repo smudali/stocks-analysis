@@ -95,3 +95,6 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [Accessing company financials using the SEC Financial Statement Data Sets - Part 2 (Enhancements)](https://medium.com/@sugath.mudali/accessing-company-financials-using-the-sec-financial-statement-data-sets-part-2-enhancements-3d01894dfd97)
 
+## [yf_altman_z-score.ipynb](yf_altman_z-score.ipynb)
+#### Medium Article
+- [How to calculate Altman Z-Score using yfinance Python API](https://medium.com/@sugath.mudali/how-to-calculate-altman-z-score-using-yfinance-python-api-c3b80e9e993d)
