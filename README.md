@@ -98,3 +98,8 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [yf_altman_z-score.ipynb](yf_altman_z-score.ipynb)
 #### Medium Article
 - [How to calculate Altman Z-Score using yfinance Python API](https://medium.com/@sugath.mudali/how-to-calculate-altman-z-score-using-yfinance-python-api-c3b80e9e993d)
+
+## [av_altman_z-score_historical](av_altman_z-score_historical.ipynb), [av_save_fin_reports](av_save_fin_reports.ipynb)
+#### Medium Article
+- [How to calculate historical Altman Z-Score using Python](https://medium.com/@sugath.mudali/how-to-calculate-historical-altman-z-score-using-python-0858f5e96f77)
+
