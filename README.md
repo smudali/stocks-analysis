@@ -103,3 +103,7 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [How to calculate historical Altman Z-Score using Python](https://medium.com/@sugath.mudali/how-to-calculate-historical-altman-z-score-using-python-0858f5e96f77)
 
+## [sec_findata_firestore_load.ipynb](sec/sec_findata_firestore_load.ipynb), [sec_findata_firestore_read.ipynb](sec/sec_findata_firestore_read.ipynb)
+#### Medium Article
+- [Accessing company financials using the SEC Financial Statement Data Sets — Part 3 (Enhancements)](https://medium.com/@sugath.mudali/accessing-company-financials-using-the-sec-financial-statement-data-sets-part-3-enhancements-c54e5930aa9d)
+
