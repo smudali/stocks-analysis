@@ -38,7 +38,7 @@ python-decouple==3.8
 pytz==2023.3
 pytz-deprecation-shim==0.1.0.post0
 referencing==0.30.2
-requests==2.31.0
+requests>2.32.0
 rich==13.5.2
 rpds-py==0.9.2
 six==1.16.0
@@ -52,7 +52,7 @@ TA-Lib==0.4.28
 tenacity==8.2.3
 toml==0.10.2
 toolz==0.12.0
-tornado==6.3.3
+tornado>6.4.1
 typing_extensions==4.7.1
 tzdata==2023.3
 tzlocal==4.3.1
