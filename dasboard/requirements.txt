@@ -61,4 +61,4 @@ validators==0.21.2
 watchdog==3.0.0
 webencodings==0.5.1
 yfinance==0.2.28
-zipp==3.16.2
+zipp>=3.19.1
