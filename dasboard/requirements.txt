@@ -28,7 +28,7 @@ packaging==23.1
 pandas==2.0.3
 Pillow>=10.0.1
 plotly==5.16.1
-protobuf==4.24.1
+protobuf>=4.25.8
 pyarrow>=14.0.1
 pydeck==0.8.0
 Pygments==2.16.1
