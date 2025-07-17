@@ -107,3 +107,6 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [Accessing company financials using the SEC Financial Statement Data Sets — Part 3 (Enhancements)](https://medium.com/@sugath.mudali/accessing-company-financials-using-the-sec-financial-statement-data-sets-part-3-enhancements-c54e5930aa9d)
 
+## [agent.ipynb](ai/ms/agent.ipynb)
+#### Medium Article
+- [Automate Your Stock Analysis: Extracting Insights from Morningstar with AI](https://medium.com/@sugath.mudali/automate-your-stock-analysis-extracting-insights-from-morningstar-with-ai-be26766f5ebd)
