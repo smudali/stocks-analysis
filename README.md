@@ -110,3 +110,9 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [agent.ipynb](ai/ms/agent.ipynb)
 #### Medium Article
 - [Automate Your Stock Analysis: Extracting Insights from Morningstar with AI](https://medium.com/@sugath.mudali/automate-your-stock-analysis-extracting-insights-from-morningstar-with-ai-be26766f5ebd)
+
+## [agent.ipynb](ai/asx/agent.ipynb), [watchlist.ipynb](ai/asx/watchlist.ipynb)
+#### Medium Article
+- [Building Your Stock Analysis Dashboard with AI-Powered Insights](https://medium.com/@sugath.mudali/building-your-stock-analysis-dashboard-with-ai-powered-insights-217c77ab0c62)
+
+
