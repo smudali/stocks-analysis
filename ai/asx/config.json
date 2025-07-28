@@ -1,0 +1,20 @@
+{
+    "setup": {
+        "article_url": "https://www.morningstar.com.au/stocks/3-cheap-fully-franked-stocks",
+        "title": "3 cheap fully franked stocks"
+    },
+    "agent" : {
+        "name": "Stock Analyst",
+        "role": "You are an expert in extracting company stock data from user input",
+        "model_id": "llama3-8b-8192",
+        "instructions": [
+            "Extract the name of the company as name",
+            "Extract the stock symbol as symbol",
+            "Extract Fair Value as fair_value",
+            "Extract Industry as industry",
+            "Extract Uncertainity Rating as uncertainity_rating",
+            "Extract star rating as star_rating",
+            "Summarize the company and save it under the summary field"
+        ]
+    }
+}
