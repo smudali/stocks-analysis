@@ -119,3 +119,6 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [Automating Stock Insights: A Systematic Approach to Chunking Data for LLMs](https://medium.com/@sugath.mudali/automating-stock-insights-a-systematic-approach-to-chunking-data-for-llms-c6e676a2b6c1)
 
+## [yf_toolkit.ipynb](ai/yf_toolkit.ipynb)
+#### Medium Article
+- [How to Enhance Your AI Agent with Custom Tools](https://medium.com/@sugath.mudali/475fe952cdee)
