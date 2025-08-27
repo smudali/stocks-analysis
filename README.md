@@ -122,3 +122,7 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [yf_toolkit.ipynb](ai/yf_toolkit.ipynb)
 #### Medium Article
 - [How to Enhance Your AI Agent with Custom Tools](https://medium.com/@sugath.mudali/475fe952cdee)
+
+## [langchain_rag.ipynb](ai/ms/langchain_rag.ipynb)
+#### Medium Article
+- [Enhancing Stock Analysis with Retrieval-Augmented Generation (RAG)](https://medium.com/@sugath.mudali/enhancing-stock-analysis-with-retrieval-augmented-generation-rag-55a476be7686)
