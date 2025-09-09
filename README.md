@@ -126,3 +126,8 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [langchain_rag.ipynb](ai/ms/langchain_rag.ipynb)
 #### Medium Article
 - [Enhancing Stock Analysis with Retrieval-Augmented Generation (RAG)](https://medium.com/@sugath.mudali/enhancing-stock-analysis-with-retrieval-augmented-generation-rag-55a476be7686)
+
+## [structured_output.ipynb](ai/ms/structured_output.ipynb)
+#### Medium Article
+- [From Text to JSON: Exploring Structured Outputs in AI Agents](https://medium.com/@sugath.mudali/from-text-to-json-exploring-structured-outputs-in-ai-agents-bd4e146bced1)
+
