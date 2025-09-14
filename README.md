@@ -131,3 +131,6 @@ This notebook inserts Earnings data into MongoDB Atlas database
 #### Medium Article
 - [From Text to JSON: Exploring Structured Outputs in AI Agents](https://medium.com/@sugath.mudali/from-text-to-json-exploring-structured-outputs-in-ai-agents-bd4e146bced1)
 
+## [edgartools.ipynb](ai/edgartools.ipynb)
+#### Medium Article
+- [Using EdgarTools to Power RAG for Stock Analysis](https://medium.com/@sugath.mudali/using-edgartools-to-power-rag-for-stock-analysis-c70919d8db76)
