@@ -134,3 +134,8 @@ This notebook inserts Earnings data into MongoDB Atlas database
 ## [edgartools.ipynb](ai/edgartools.ipynb)
 #### Medium Article
 - [Using EdgarTools to Power RAG for Stock Analysis](https://medium.com/@sugath.mudali/using-edgartools-to-power-rag-for-stock-analysis-c70919d8db76)
+
+## [sec_form-10K.ipynb](ai/sec/sec_form-10K.ipynb)
+#### Medium Article
+- [Unlocking 10-K Insights: Native PDF Processing and Q&A with Gemini Models](https://medium.com/@sugath.mudali/unlocking-10-k-insights-native-pdf-processing-and-q-a-with-gemini-models-bbebef93f4fc)
+
