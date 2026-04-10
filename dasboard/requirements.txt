@@ -31,7 +31,7 @@ plotly==5.16.1
 protobuf>=4.25.8
 pyarrow>=14.0.1
 pydeck==0.8.0
-Pygments==2.16.1
+Pygments>=2.20.0
 Pympler==1.0.1
 python-dateutil==2.8.2
 python-decouple==3.8
